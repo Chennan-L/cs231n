@@ -1,0 +1,8 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Downloaded/generated datasets
+cs231n/datasets/**/*.h5
+cs231n/datasets/**/*.zip
+cs231n/datasets/wget-log*
